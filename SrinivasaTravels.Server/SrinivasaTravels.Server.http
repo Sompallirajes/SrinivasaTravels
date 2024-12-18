@@ -1,0 +1,6 @@
+@SrinivasaTravels.Server_HostAddress = http://localhost:5199
+
+GET {{SrinivasaTravels.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
