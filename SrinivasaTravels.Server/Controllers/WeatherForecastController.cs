@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SrinivasaTravels.Server.Controllers
 {
-    // Weather is Too Cool
+    // Weather is Too Cool Raja
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
